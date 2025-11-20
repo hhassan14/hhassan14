@@ -1,10 +1,10 @@
-<h1 align="left">Hi there! I'm Hana :D</h1>
+<h1 align="left">Hi there ⊹ ࣪ ˖ I'm Hana ٩(ˊᗜˋ*)و ♡</h1>
 
-- A CS Student at University of Wisconsin–Madison
+- A CS Student at University of Wisconsin–Madison ⭑.ᐟ
 
-- Currently incoming @ Figma, Prev @ GoDaddy, Stanford, UKG
+- Currently incoming @ Figma, Prev @ GoDaddy, Stanford, UKG ⭑.ᐟ
 
-- Reach me at hhassan5@wisc.edu
+- Reach me at hhassan5@wisc.edu ⭑.ᐟ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
