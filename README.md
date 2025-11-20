@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! I'm Hana :,)</h1>
+<h1 align="left">Hi there! I'm Hana :D</h1>
 
 - A CS Student at University of Wisconsin–Madison
 
