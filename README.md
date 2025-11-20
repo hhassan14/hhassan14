@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! I'm Hana</h1>
-- A CS Student at University of **Wisconsin–Madison**
+<h1 align="left">Hi there! I'm Hana</h1>
+- A CS Student at University of Wisconsin–Madison
 
-- Currently incoming @ Figma, **Prev @ UKG, GoDaddy**
+- Currently incoming @ Figma, Prev @ UKG, GoDaddy
 
-- Reach me at **hhassan5@wisc.edu**
+- Reach me at hhassan5@wisc.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
