@@ -4,4 +4,4 @@
 
 - Currently incoming @ Figma, Prev @ GoDaddy, Stanford, UKG
 
-- Reach me at hhassan5@wisc.edu
+- Reach me at hanahassan@willowmail.com
