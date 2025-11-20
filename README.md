@@ -2,7 +2,7 @@
 
 - A CS Student at University of Wisconsin–Madison
 
-- Currently incoming @ Figma, Prev @ GoDaddy, UKG, Stanford
+- Currently incoming @ Figma, Prev @ GoDaddy, Stanford, UKG
 
 - Reach me at hhassan5@wisc.edu
 
