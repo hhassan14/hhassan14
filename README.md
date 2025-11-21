@@ -2,6 +2,4 @@
 
 - A CS Student at University of Wisconsin–Madison
 
-- Currently incoming @ Figma, prev @ GoDaddy, Stanford, UKG
-
 - Reach me at hanahassan[at]willowmail[dot]com
